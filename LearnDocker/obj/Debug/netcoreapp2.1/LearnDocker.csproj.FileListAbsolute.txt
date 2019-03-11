@@ -1,0 +1,15 @@
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.csproj.CoreCompileInputs.cache
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.AssemblyInfoInputs.cache
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.AssemblyInfo.cs
+D:\MST\MyProject\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.1\LearnDocker.deps.json
+D:\MST\MyProject\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.1\LearnDocker.runtimeconfig.json
+D:\MST\MyProject\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.1\LearnDocker.runtimeconfig.dev.json
+D:\MST\MyProject\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.1\LearnDocker.dll
+D:\MST\MyProject\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.1\LearnDocker.pdb
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.csprojAssemblyReference.cache
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.RazorAssemblyInfo.cache
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.RazorAssemblyInfo.cs
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.RazorTargetAssemblyInfo.cache
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.dll
+D:\MST\MyProject\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.1\LearnDocker.pdb
