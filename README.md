@@ -8,7 +8,7 @@ Windows üzerinde build etmek için;
  komutunu giriniz. 
 * docker images komutu ile learndocker isminde bir image oluşturuluğunda görüntüleyebilirsiniz.
 * Oluşturulan image dan bir container yaratmak için
- docker run -d -p 15001:80 --name dc1 learndocker komutunu giriniz.
-* docker ps komutuyla yada Kitematic üzerinden container'ı görebilirsiniz.
+<code> docker run -d -p 15001:80 --name dc1 learndocker </code> komutunu giriniz.
+* <code>docker ps </code> komutuyla yada Kitematic üzerinden container'ı görebilirsiniz.
 * localhost:15001/api/values derseniz uygulamayı tarayıcınızdan görüntüleyebilirsiniz.
  
