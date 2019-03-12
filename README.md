@@ -4,7 +4,7 @@ ASP.NEt Core 2.1 üzerinde basit bir docker uygulaması.
 
 Windows üzerinde build etmek için;
 * Powershell de Dockerfile'in bulunduğu klasöre gelip: 
- docker build -t learndocker . 
+<code> docker build -t learndocker . </code>
  komutunu giriniz. 
 * docker images komutu ile learndocker isminde bir image oluşturuluğunda görüntüleyebilirsiniz.
 * Oluşturulan image dan bir container yaratmak için
